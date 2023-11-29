@@ -13,7 +13,7 @@
         <!ENTITY jackson-mapper-asl_version "1.9.14-atlassian-6">
         <!ENTITY jackson_version "2.12.7">
         <!ENTITY janino_version "3.0.16">
-        <!ENTITY jetty_version "9.4.44.v20210927">
+        <!ENTITY jetty_version "9.3.24.v20180605">
         <!ENTITY kafka_version "3.4.0">
         <!ENTITY kubernetes_version "5.12.2">
         <!ENTITY okio_version "3.4.0">
